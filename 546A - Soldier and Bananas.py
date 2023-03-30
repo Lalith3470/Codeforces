@@ -6,5 +6,4 @@ while i<=w:
     i+=1
 if cost>n:
     print(cost-n)
-else:
-    print(0)
+else:print(0)
